@@ -17,7 +17,7 @@ TOTBUCKETS = 200
 
 # Point this variable to the parent directory where the data for various
 # days are stored day by day basis.
-BASEPATH = "/user/pdhakshi/pigouts/smart_data_2months"
+BASEPATH = "/user/pdhakshi/pigouts/siedata"
 
 qtypeCodeToNameMap = {"1"  : "A",
                       "12" : "PTR",
